@@ -1,0 +1,5 @@
+c:\users\dodo\documents\visual studio 2010\Projects\VideoLookUp\VideoLookUp\bin\VideoLookUp.dll
+c:\users\dodo\documents\visual studio 2010\Projects\VideoLookUp\VideoLookUp\bin\VideoLookUp.pdb
+c:\users\dodo\documents\visual studio 2010\Projects\VideoLookUp\VideoLookUp\obj\Debug\VideoLookUp.dll
+c:\users\dodo\documents\visual studio 2010\Projects\VideoLookUp\VideoLookUp\obj\Debug\VideoLookUp.pdb
+C:\Users\Dodo\Documents\Visual Studio 2010\Projects\VideoLookUp\VideoLookUp\obj\Debug\VideoLookUp.csprojResolveAssemblyReference.cache

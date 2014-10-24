@@ -1,0 +1,4 @@
+c:\users\dodo\documents\visual studio 2010\Projects\VideoLookUp\TryIt\bin\TryIt.dll
+c:\users\dodo\documents\visual studio 2010\Projects\VideoLookUp\TryIt\bin\TryIt.pdb
+c:\users\dodo\documents\visual studio 2010\Projects\VideoLookUp\TryIt\obj\Debug\TryIt.dll
+c:\users\dodo\documents\visual studio 2010\Projects\VideoLookUp\TryIt\obj\Debug\TryIt.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\TryIt\bin\TryIt.dll
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\TryIt\bin\TryIt.pdb
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\TryIt\obj\Debug\TryIt.dll
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\TryIt\obj\Debug\TryIt.pdb
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\TryIt\obj\Debug\TryIt.csprojResolveAssemblyReference.cache

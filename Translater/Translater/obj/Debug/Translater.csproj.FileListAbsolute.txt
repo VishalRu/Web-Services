@@ -1,0 +1,4 @@
+c:\users\dodo\documents\visual studio 2010\Projects\Translater\Translater\bin\Translater.dll
+c:\users\dodo\documents\visual studio 2010\Projects\Translater\Translater\bin\Translater.pdb
+c:\users\dodo\documents\visual studio 2010\Projects\Translater\Translater\obj\Debug\Translater.dll
+c:\users\dodo\documents\visual studio 2010\Projects\Translater\Translater\obj\Debug\Translater.pdb

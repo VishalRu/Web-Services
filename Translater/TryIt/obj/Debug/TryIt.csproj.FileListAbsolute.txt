@@ -1,0 +1,4 @@
+c:\users\dodo\documents\visual studio 2010\Projects\Translater\TryIt\bin\TryIt.dll
+c:\users\dodo\documents\visual studio 2010\Projects\Translater\TryIt\bin\TryIt.pdb
+c:\users\dodo\documents\visual studio 2010\Projects\Translater\TryIt\obj\Debug\TryIt.dll
+c:\users\dodo\documents\visual studio 2010\Projects\Translater\TryIt\obj\Debug\TryIt.pdb

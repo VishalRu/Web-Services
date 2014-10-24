@@ -1,0 +1,9 @@
+D:\ProjectVegetable\BingNewsService\BingNewsService\bin\BingNewsService.dll
+D:\ProjectVegetable\BingNewsService\BingNewsService\bin\BingNewsService.pdb
+D:\ProjectVegetable\BingNewsService\BingNewsService\obj\Debug\BingNewsService.dll
+D:\ProjectVegetable\BingNewsService\BingNewsService\obj\Debug\BingNewsService.pdb
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\BingNewsService\bin\BingNewsService.dll
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\BingNewsService\bin\BingNewsService.pdb
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\BingNewsService\obj\Debug\BingNewsService.csprojResolveAssemblyReference.cache
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\BingNewsService\obj\Debug\BingNewsService.dll
+C:\Users\Dodo\Downloads\BingNewsService\BingNewsService\BingNewsService\obj\Debug\BingNewsService.pdb
